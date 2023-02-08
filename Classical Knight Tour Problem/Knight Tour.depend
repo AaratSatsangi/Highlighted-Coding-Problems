@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597691480 source:d:\codeblocks\the game of shadows\knight tour\main.c
+	<stdio.h>
+	<stdlib.h>
+

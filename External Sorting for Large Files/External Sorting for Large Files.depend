@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675880261 source:c:\users\aarat\myproject-highlights\external sorting for large files\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

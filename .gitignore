@@ -1,0 +1,3 @@
+/External Sorting for Large Files/*.txt
+/.*
+!/.gitignore
